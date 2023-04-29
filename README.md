@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hatemjam
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI and apps building
-- 💞️ I’m looking to collaborate on project management and real estate tools
+- 💞️ I’m looking to collaborate on project management, building real estate tools, innovating business models, Passive income
 - 📫 How to reach me jamoussihatem@gmail.com
 
 <!---
